@@ -15,7 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 
 
 ## My Compony 
-  [<u>(주)포스아이 (https://forcei.co.kr)</u>](https://forcei.co.kr)
+  [<u>(주)포스아이 (https://forcei.co.kr)</u>](http://forcei.co.kr)
 
 #
 #
