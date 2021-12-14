@@ -1,0 +1,4 @@
+#Tue Dec 14 10:49:06 KST 2021
+base.0=D\:\\Projects\\yunki_lotto_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
