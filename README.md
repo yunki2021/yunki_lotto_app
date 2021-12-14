@@ -21,7 +21,7 @@ A few resources to get you started if this is your first Flutter project:
 #
 ## Techincal Table
 | Seq |name | Text | Description |
-|---|---|:---:|---:|
+|---|---|:---:|:--:|
 | 1 |app.py | lotto number generater service | server |
 | 2 |index.html | html | homepage |
 | 3 |index.js | js | java script |
